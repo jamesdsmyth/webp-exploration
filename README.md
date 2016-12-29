@@ -1,1 +1,3 @@
-# webp-exploration
+# webP images
+
+gulp optimiseImages

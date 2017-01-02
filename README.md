@@ -1,12 +1,12 @@
 # webP images
 
-### index.html - loads 24 images at a total weight of 704KB
+### index.html
 
-index.html uses webP images when in a supported browser.
+index.html uses webP images when in a supported browser and loads 24 images at a total weight of 704KB
 
-### jpg.html - loads 24 images at a total weight of 1.6MB
+### jpg.html
 
-jpg.html uses jpg images only.
+jpg.html uses jpg images only and loads 24 images at a total weight of 1.6MB
 
 ## Gulp task to minimise and create WebP images
 

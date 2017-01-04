@@ -7,6 +7,10 @@ const webp = require('gulp-webp');
 gulp.task('optimiseImages', () =>
     gulp.src('src/images/*')
         .pipe(imagemin())
+        .pipe(gulp.dest('dist/images'));
+
+    gulp.src('src/images/*')
+        .pipe(imagemin())
         .pipe(webp())
-        .pipe(gulp.dest('dist/images'))
+        .pipe(gulp.dest('dist/images'));
 );

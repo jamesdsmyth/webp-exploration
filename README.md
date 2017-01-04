@@ -1,5 +1,7 @@
 # webP images
 
+Just clone and view the html files to see the difference. Run the Gulp task detailed below to create your own webP files
+
 ### index.html
 
 index.html uses webP images when in a supported browser and loads 24 images at a total weight of 704KB

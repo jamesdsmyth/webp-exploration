@@ -1,4 +1,4 @@
-# W ebP images
+# WebP images
 
 Just clone and view the html files to see the difference between WebP & JPEG. Run the Gulp task detailed below to create your own WebP files
 
